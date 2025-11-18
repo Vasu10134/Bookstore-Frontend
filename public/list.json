@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/gradient-world-book-day-vertical-poster-template_23870775.htm#fromView=search&page=1&position=26&uuid=3a603f7f-b04a-4256-a19b-b67e194e8fb7&query=book+story"
+  },
+  {
+    "id": 2,
+    "name": "Horror Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_23671499.htm#fromView=search&page=1&position=1&uuid=33e9fdb4-77af-4229-a153-e74acc796edd&query=story+books+cover"
+  },
+  {
+    "id": 3,
+    "name": "Fiction Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/red-text-book-closed-icon_70015834.htm#fromView=search&page=1&position=5&uuid=05c09ac7-7928-48ee-b6af-e61db0ca4be7&query=book"
+  },
+  {
+    "id": 4,
+    "name": "Adventure Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/gradient-world-book-day-vertical-poster-template_23870775.htm#fromView=search&page=1&position=26&uuid=3a603f7f-b04a-4256-a19b-b67e194e8fb7&query=book+story"
+  },
+  {
+    "id": 5,
+    "name": "Science Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_23671499.htm#fromView=search&page=1&position=1&uuid=33e9fdb4-77af-4229-a153-e74acc796edd&query=story+books+cover"
+  },
+  {
+    "id": 6,
+    "name": "History Book",
+    "title": "lorem ipsum...",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/red-text-book-closed-icon_70015834.htm#fromView=search&page=1&position=5&uuid=05c09ac7-7928-48ee-b6af-e61db0ca4be7&query=book"
+  }
+]
